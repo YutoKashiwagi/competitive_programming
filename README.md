@@ -1,0 +1,2 @@
+# competitive_programming
+競技プログラミング、アルゴリズム用リポジトリ
